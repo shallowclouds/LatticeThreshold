@@ -36,4 +36,6 @@
 cmake-build-debug/
 
 # data dir
-data/
+data/*
+
+!.gitkeep
